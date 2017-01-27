@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Зычкова Елизавета Олеговна</Name>
+    <Pasport>6310664417</Pasport>
+    <Books>
+      <Book>
+        <Name>Атлант расправил плечи</Name>
+        <Autor>Айн Рэнд null</Autor>
+        <LastDate>2016-10-02T00:00:00+03:00</LastDate>
+      </Book>
+    </Books>
+  </User>
+</ArrayOfUser>
